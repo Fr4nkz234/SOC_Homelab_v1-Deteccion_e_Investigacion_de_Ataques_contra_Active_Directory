@@ -1,4 +1,4 @@
-# SOC Homelab Scenario 1: Detección e Investigación de Ataques contra Active Directory
+# SOC Homelab Caso 1: Detección e Investigación de Ataques contra Active Directory
 
 ## Objective
 [Brief Objective - Remove this afterwards]
